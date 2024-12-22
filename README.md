@@ -1,6 +1,6 @@
 # Chat_with_PDF
 
-Explanation : https://youtu.be/WmuSEfgzcJo
+
 
 This project demonstrates how to utilize a Large Language Model (LLM) to process and understand PDF documents for question-answering tasks.
 
@@ -49,10 +49,3 @@ Create Vector Store: Text chunks are embedded and stored for quick retrieval.
 
 Run the Interaction Loop: Users can ask questions, and the system provides accurate answers based on the document content.
 
-------------------
-
-
-
-Usage
-
-Simply run the script, and interact with the system by asking questions about the document. The model will fetch and display relevant answers, demonstrating the power of LLMs in understanding and processing large texts.
